@@ -1,0 +1,9 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "username": "root",
+    "database": "node-assessment"
+  },
+  "secret": "my-top-secret24ui#*$)9",
+  "mongodb": "mongodb+srv://babuibrar101:babuibrar0344@cluster0.oirzk.mongodb.net/?retryWrites=true&w=majority"
+}
